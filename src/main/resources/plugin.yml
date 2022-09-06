@@ -1,0 +1,5 @@
+name: ItemData
+version: '${project.version}'
+main: com.jonghyun.item.Item
+commands:
+  아이템데이터:
